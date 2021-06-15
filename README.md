@@ -203,7 +203,8 @@ In the terminal, you can easily see the executed result of the test cases (fail 
 ![](https://i.imgur.com/NuvjxjC.png)
 
 ### Code coverage report
-There is a `coverage` folder generated
+There is a `coverage` folder generated 
+
 ![](https://i.imgur.com/6sVHcqo.png)
 
 Run `index.html` file on Live Server - Visual Studio Code, you will see the statistics of each file and the whole project
